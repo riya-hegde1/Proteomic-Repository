@@ -38,7 +38,7 @@ Goal: Try to find as many studies and datasets as possible. Identify the data fi
 Try to identify and note as much information about the study as possible, including metadata information about the samples and the experimental design of the study (see the checklist below for some important variables related to the study).
 
 Info needed from PRIDE repository/paper (and the experimental design):
-  Paper info: Paper title, link and PMID ID
+\tPaper info: Paper title, link and PMID ID
   Data repository: PRIDE ID PXD######
   Is there Sample annotation file (aka metadata information)?
   What type of data (Phosphorylation or Expression)?

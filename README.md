@@ -10,7 +10,7 @@ We sought to bridge the gap between intricate proteomic data sets and the scient
 
 Our motivation stems from the realization that invaluable proteomics data often exists in a scattered state, creating challenges for researchers to effectively utilize this wealth of information. We meticulously curated essential aspects of the study design, such as blah blah (the categories we will do — maybe metadata and analytical tools?) to empower researchers with a tool that expedites data exploration, analysis, and interpretation. In this way, we aspire to contribute to the acceleration of scientific discoveries and proteomic research advancement.
 
-<br><br>
+<br><br><br>
 Methods and Procedures
 
 Step 1: Search for relevant proteomic articles: 

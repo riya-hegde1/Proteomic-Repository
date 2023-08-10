@@ -22,7 +22,7 @@ Within the dataset, we look for a matrix between peptides x samples, containing 
 Look for: Excel (xlsx) or text file (csv) files mainly, they are easy to understand and process. 
 
 Example file: [https://drive.google.com/file/d/1ayTwhAvkoi0irmC9ytimRUY3wgwmEaqc/view?usp=sharing](url)
-<img src = "[https://ibb.co/CvqxF44](https://drive.google.com/file/d/1ayTwhAvkoi0irmC9ytimRUY3wgwmEaqc/view?usp=sharing)" alt = "example file">
+
 
 Check the paper in order: Supplementary Tables, Supplementary Materials, Data Availability section, PRIDE repository (https://www.ebi.ac.uk/pride/archive/)
 The accession number for the PRIDE repository is usually in the data availability section. 

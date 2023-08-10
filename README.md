@@ -36,9 +36,9 @@ Step 3: Search for additional information relevant to the study:
 Additional: After finding some studies and data files, also try to identify the metadata about the samples ( any additional info about samples, are they male/female, what tissue or time point?, exact variables will depend on the study). Supplementary Table 1 in the example Alzheimer’s study gives that info. 
 Goal: Try to find as many studies and datasets as possible. Identify the data files (the Excel files for peptide or protein matrices), download them, and note how or where you obtained them from. 
 Try to identify and note as much information about the study as possible, including metadata information about the samples and the experimental design of the study (see the checklist below for some important variables related to the study).
-
+\n\n\n
 Info needed from PRIDE repository/paper (and the experimental design):
-	Paper info: Paper title, link and PMID ID
+Paper info: Paper title, link and PMID ID
 Data repository: PRIDE ID PXD######
 Is there Sample annotation file (aka metadata information)?
 What type of data (Phosphorylation or Expression)?

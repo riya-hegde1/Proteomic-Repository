@@ -13,6 +13,19 @@ Our motivation stems from the realization that invaluable proteomics data often 
 ___
 ## Data
 
-### Expression Data (Protein-level)
+
+#### Expression Data (Protein-level)
+* [Inhaled multi-walled carbon nanotubes differently modulate global gene and protein expression in rat lungs](https://www.tandfonline.com/doi/full/10.1080/17435390.2020.1851418)
+  * PXD029842, Rat, Carbon Nanotube Inhalation, 1175 x 48
+
+#### Expression Data (Protein-level)
+* [Mass Spectrometry-Based Proteomics Analysis of Human Substantia Nigra From Parkinson's Disease Patients Identifies Multiple Pathways Potentially Involved in the Disease](https://www.mcponline.org/article/S1535-9476(22)00260-2/fulltext)
+  * No PRIDE ID, Human, Parkinson's Disease, 9743 x 30
+
+#### Expression Data (Peptide-level)
+* [Mass Spectrometry-Based Proteomics Analysis of Human Substantia Nigra From Parkinson's Disease Patients Identifies Multiple Pathways Potentially Involved in the Disease](https://www.mcponline.org/article/S1535-9476(22)00260-2/fulltext)
+  * No PRIDE ID, Human, Parkinson's Disease, 134787 x 66
+
+#### Expression Data (Protein-level)
 * [Proteome of the Developing Murine Lens Through Mass Spectrometry](https://iovs.arvojournals.org/article.aspx?articleid=2670138)
-  * PXD006381, Mouse, No disease mentioned, Cataractogenesis, 6076 x 18
+   * PXD006381, Mouse, Cataractogenesis, 6076 x 18

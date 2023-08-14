@@ -8,8 +8,7 @@
 + Within the dataset, we look for a matrix between peptides x samples containing the intensities. This may also be protein x samples as well. 
   + Excel (xlsx) or text file (csv) files are simpler to understand and process; priority goes to these files. 
 
-Example file:
-
+Example file:![example file](examplefile.jpg)
 
 + Check paper in the order of Supplementary Tables, Supplementary Materials, Data Availability section, and [PRIDE repository](https://www.ebi.ac.uk/pride/archive/)
   + The accession number for the PRIDE repository is usually in the data availability section. 

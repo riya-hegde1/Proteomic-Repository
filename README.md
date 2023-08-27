@@ -12,7 +12,7 @@ Our motivation stems from the realization that invaluable proteomics data often 
 
 ___
 ## Submit Data
-Use this link to submit data to add to the repository: [Data Submissions]([url](https://forms.gle/iB2HnaXBoyTnCRiN7))
+Use this link to submit data to add to the repository: [Data Submissions](https://forms.gle/iB2HnaXBoyTnCRiN7)
 ___
 ## Data
 #### Expression Data (Protein-level)
